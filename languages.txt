@@ -1,0 +1,46 @@
+| Language              | Code    |
+| --------------------- | ------- |
+| English               | `en`    |
+| Hindi                 | `hi`    |
+| Arabic                | `ar`    |
+| Spanish               | `es`    |
+| Chinese (Simplified)  | `zh-CN` |
+| Chinese (Traditional) | `zh-TW` |
+| French                | `fr`    |
+| German                | `de`    |
+| Portuguese            | `pt`    |
+| Russian               | `ru`    |
+| Japanese              | `ja`    |
+| Korean                | `ko`    |
+| Bengali               | `bn`    |
+| Urdu                  | `ur`    |
+| Turkish               | `tr`    |
+| Italian               | `it`    |
+| Vietnamese            | `vi`    |
+| Indonesian            | `id`    |
+| Persian (Farsi)       | `fa`    |
+| Thai                  | `th`    |
+| Dutch                 | `nl`    |
+| Greek                 | `el`    |
+| Hebrew                | `he`    |
+| Polish                | `pl`    |
+| Romanian              | `ro`    |
+| Ukrainian             | `uk`    |
+| Swedish               | `sv`    |
+| Hungarian             | `hu`    |
+| Czech                 | `cs`    |
+| Filipino (Tagalog)    | `tl`    |
+| Malay                 | `ms`    |
+| Tamil                 | `ta`    |
+| Telugu                | `te`    |
+| Kannada               | `kn`    |
+| Marathi               | `mr`    |
+| Gujarati              | `gu`    |
+| Punjabi               | `pa`    |
+| Swahili               | `sw`    |
+| Serbian               | `sr`    |
+| Croatian              | `hr`    |
+| Slovak                | `sk`    |
+| Finnish               | `fi`    |
+| Norwegian             | `no`    |
+| Danish                | `da`    |
